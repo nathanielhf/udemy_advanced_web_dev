@@ -1,0 +1,1 @@
+matches when the user interacts with the element with a pointing device but does not necessarily activate it
